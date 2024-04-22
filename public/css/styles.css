@@ -362,7 +362,7 @@ footer {
 }
 
 .login button{
-    width: 50%;
+    width: 40%;
     padding: 10px;
     border: 1px solid black;
     border-radius: 2%;
@@ -404,7 +404,7 @@ footer {
 }
 
 .registro button{
-    width: 50%;
+    width: 40%;
     padding: 10px;
     border: 1px solid black;
     border-radius: 2%;
